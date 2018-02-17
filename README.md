@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/LICENSE-WTFPL%202.0-red.svg)](http://www.wtfpl.net/)
+
 # loadtest-plotter
 Plot results produced by the npm module 'loadtest'.
 
