@@ -24,12 +24,12 @@ These tools need to be installed before loadtest-plotter can be used.
 ### loadtest
 Use the utility script to gather loadtest data. The script's required parameters are described in its usage string:
 ```
-./loadtest_runner.bash -h
+./loadtest_runner.sh -h
 ```
 
 An example run of the script is:
 ```
-./loadtest_runner.bash -a http://172.31.107.121:3500/ping -c 50 -m GET -n 500
+./loadtest_runner.sh -a http://172.31.107.121:3500/ping -c 50 -m GET -n 500
 ```
 
 ### Make Graphs
